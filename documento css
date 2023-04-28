@@ -1,0 +1,4 @@
+/* documento CSS */
+*{
+  margin:0;
+}
